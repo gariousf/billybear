@@ -385,23 +385,23 @@
     }
 
     [data-framer-component-type=Text] a:hover, [data-framer-component-type=Text] a div span:hover, [data-framer-component-type=Text] a span span span:hover, [data-framer-component-type=Text] a p span span:hover, [data-framer-component-type=Text] a h1 span span:hover, [data-framer-component-type=Text] a h2 span span:hover, [data-framer-component-type=Text] a h3 span span:hover, [data-framer-component-type=Text] a h4 span span:hover, [data-framer-component-type=Text] a h5 span span:hover, [data-framer-component-type=Text] a h6 span span:hover {
-        --font-family: var(--framer-link-hover-font-family, var(--framer-link-font-family, var(--framer-font-family)));
-        --font-style: var(--framer-link-hover-font-style, var(--framer-link-font-style, var(--framer-font-style)));
-        --font-weight: var(--framer-link-hover-font-weight, var(--framer-link-font-weight, var(--framer-font-weight)));
-        --text-color: var(--framer-link-hover-text-color, var(--framer-link-text-color, var(--framer-text-color)));
-        --font-size: var(--framer-link-hover-font-size, var(--framer-link-font-size, var(--framer-font-size)));
-        --text-transform: var(--framer-link-hover-text-transform, var(--framer-link-text-transform, var(--framer-text-transform)));
-        --text-decoration: var(--framer-link-hover-text-decoration, var(--framer-link-text-decoration, var(--framer-text-decoration)))
+        --font-family: var(--framer-link-hover-font-family, var(--framer-blockquote-font-family, var(--framer-link-font-family, var(--framer-font-family, Inter, Inter Placeholder, sans-serif))));
+        --font-style: var(--framer-link-hover-font-style, var(--framer-blockquote-font-style, var(--framer-link-font-style, var(--framer-font-style, normal))));
+        --font-weight: var(--framer-link-hover-font-weight, var(--framer-blockquote-font-weight, var(--framer-link-font-weight, var(--framer-font-weight, 400))));
+        --text-color: var(--framer-link-hover-text-color, var(--framer-blockquote-text-color, var(--framer-link-text-color, var(--framer-text-color, #000))));
+        --font-size: var(--framer-link-hover-font-size, var(--framer-blockquote-font-size, var(--framer-font-size, 16px))) * var(--framer-font-size-scale, 1));
+        text-transform: var(--framer-link-hover-text-transform, var(--framer-blockquote-text-transform, var(--framer-link-text-transform, var(--framer-text-transform, none))));
+        text-decoration: var(--framer-link-hover-text-decoration, var(--framer-blockquote-text-decoration, var(--framer-link-text-decoration, var(--framer-text-decoration, none))))
     }
 
     [data-framer-component-type=Text].isCurrent a, [data-framer-component-type=Text].isCurrent a div span, [data-framer-component-type=Text].isCurrent a span span span, [data-framer-component-type=Text].isCurrent a p span span, [data-framer-component-type=Text].isCurrent a h1 span span, [data-framer-component-type=Text].isCurrent a h2 span span, [data-framer-component-type=Text].isCurrent a h3 span span, [data-framer-component-type=Text].isCurrent a h4 span span, [data-framer-component-type=Text].isCurrent a h5 span span, [data-framer-component-type=Text].isCurrent a h6 span span {
-        --font-family: var(--framer-link-current-font-family, var(--framer-link-font-family, var(--framer-font-family)));
-        --font-style: var(--framer-link-current-font-style, var(--framer-link-font-style, var(--framer-font-style)));
-        --font-weight: var(--framer-link-current-font-weight, var(--framer-link-font-weight, var(--framer-font-weight)));
-        --text-color: var(--framer-link-current-text-color, var(--framer-link-text-color, var(--framer-text-color)));
-        --font-size: var(--framer-link-current-font-size, var(--framer-link-font-size, var(--framer-font-size)));
-        --text-transform: var(--framer-link-current-text-transform, var(--framer-link-text-transform, var(--framer-text-transform)));
-        --text-decoration: var(--framer-link-current-text-decoration, var(--framer-link-text-decoration, var(--framer-text-decoration)))
+        --font-family: var(--framer-link-current-font-family, var(--framer-link-font-family, var(--framer-font-family, Inter, Inter Placeholder, sans-serif)));
+        --font-style: var(--framer-link-current-font-style, var(--framer-link-font-style, var(--framer-font-style, normal)));
+        --font-weight: var(--framer-link-current-font-weight, var(--framer-link-font-weight, var(--framer-font-weight, 400)));
+        --text-color: var(--framer-link-current-text-color, var(--framer-link-text-color, var(--framer-text-color, #000)));
+        --font-size: var(--framer-link-current-font-size, var(--framer-link-font-size, var(--framer-font-size, 16px)));
+        --text-transform: var(--framer-link-current-text-transform, var(--framer-link-text-transform, var(--framer-text-transform, none)));
+        --text-decoration: var(--framer-link-current-text-decoration, var(--framer-link-text-decoration, var(--framer-text-decoration, none)))
     }
 
     p.framer-text, div.framer-text, h1.framer-text, h2.framer-text, h3.framer-text, h4.framer-text, h5.framer-text, h6.framer-text, ol.framer-text, ul.framer-text {
@@ -2781,7 +2781,7 @@
                                  style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none"
                                  data-framer-component-type="RichTextContainer"><h5
                                     style="--font-selector:R0Y7UHJlc3MgU3RhcnQgMlAtcmVndWxhcg==;--framer-font-family:&quot;Press Start 2P&quot;, sans-serif;--framer-font-size:14px;--framer-line-height:20px;--framer-text-alignment:center;--framer-text-color:rgb(255, 255, 255)"
-                                    class="framer-text">Now you’re all set! Welcome aboard the next rocket to the moon.</h5></div>
+                                    class="framer-text">Now you're all set! Welcome aboard the next rocket to the moon.</h5></div>
                         </div>
                     </div>
                 </div>
@@ -2857,197 +2857,6 @@
                              class="framer-10ic3k3" aria-hidden="true"></div>
                     </a><!--/$--></div>
                 </div>
-            </div>
-        </div>
-        <div class="ssr-variant hidden-72rtr7">
-            <div class="framer-16g3db5" data-framer-name="hero" id="hero-3" name="hero">
-                <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0"
-                     data-framer-background-image-wrapper="true"><img decoding="async" loading="lazy"
-                                                                      sizes="(max-width: 1199px) 100vw"
-                                                                      srcset="images/MFDAArOU06KNXzpuh1p9LKJnSnw.png 414w"
-                                                                      src="images/MFDAArOU06KNXzpuh1p9LKJnSnw.png"
-                                                                      alt=""
-                                                                      style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover"
-                                                                      data-framer-original-sizes="100vw"></div>
-                <div class="framer-1q0ja7r hidden-72rtr7 pulseAnimation"
-                     data-framer-name="The only cryptocurrency you will HODL till the next bear run."
-                     style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:translateY(40px)"
-                     data-framer-component-type="RichTextContainer"><h6
-                        style="--font-selector:R0Y7UHJlc3MgU3RhcnQgMlAtcmVndWxhcg==;--framer-font-family:&quot;Press Start 2P&quot;, sans-serif;--framer-font-size:26px;--framer-letter-spacing:0.1em;--framer-text-alignment:center;--framer-text-color:var(--token-eb6636f3-e844-4fc1-b8f6-ce98b0287261, rgb(255, 255, 255));--framer-text-stroke-color:rgb(242, 244, 204);--framer-text-stroke-width:0px"
-                        class="framer-text">HOW TO BUY</h6></div>
-                <div class="framer-10s5gr8 hidden-1gask65 pulseAnimation"
-                     data-framer-name="The only cryptocurrency you will HODL till the next bear run."
-                     style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:translateY(40px)"
-                     data-framer-component-type="RichTextContainer"><h6
-                        style="--font-selector:R0Y7UHJlc3MgU3RhcnQgMlAtcmVndWxhcg==;--framer-font-family:&quot;Press Start 2P&quot;, sans-serif;--framer-font-size:60px;--framer-text-alignment:center;--framer-text-color:rgb(35, 47, 40);--framer-text-stroke-color:rgb(242, 244, 204);--framer-text-stroke-width:0px"
-                        class="framer-text">HOW TO BUY?</h6></div>
-                <div class="framer-4d1q8i" data-framer-name="headlines" name="headlines">
-                    <div class="framer-1vi0b2" data-border="true" data-framer-name="text" name="text">
-                        <div class="framer-1tr5p47" data-border="true" data-framer-name="text" name="text">
-                            <div class="framer-1rxbum3" data-framer-name="wallet_1_" name="wallet_1_"
-                                 style="will-change:transform;opacity:1;transform:rotate(-7deg)">
-                                <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0"
-                                     data-framer-background-image-wrapper="true"><img decoding="async" loading="lazy"
-                                                                                      src="images/vnyfL0Rrkr4hAWw4ZG39GcyKM.png"
-                                                                                      alt=""
-                                                                                      style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover">
-                                </div>
-                            </div>
-                            <div class="framer-10iknkm"
-                                 style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none"
-                                 data-framer-component-type="RichTextContainer"><h6
-                                    style="--font-selector:R0Y7UHJlc3MgU3RhcnQgMlAtcmVndWxhcg==;--framer-font-family:&quot;Press Start 2P&quot;, sans-serif;--framer-font-size:12px;--framer-text-alignment:center;--framer-text-color:rgb(241, 215, 164)"
-                                    class="framer-text">Create a wallet</h6></div>
-                            <div class="framer-1p5fet8"
-                                 style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none"
-                                 data-framer-component-type="RichTextContainer"><h5
-                                    style="--font-selector:R0Y7UHJlc3MgU3RhcnQgMlAtcmVndWxhcg==;--framer-font-family:&quot;Press Start 2P&quot;, sans-serif;--framer-font-size:14px;--framer-line-height:20px;--framer-text-alignment:center;--framer-text-color:rgb(255, 255, 255)"
-                                    class="framer-text">Download a Solana wallet. We recommend Phantom wallet. It can be downloaded from the appstore or as chrome extensions for desktop users.</h5></div>
-                        </div>
-                    </div>
-                    <div class="framer-jlauq5" data-border="true" data-framer-name="text" name="text">
-                        <div class="framer-yhjm6y" data-border="true" data-framer-name="text" name="text">
-                            <div class="framer-dt0ni" data-framer-name="eth" name="eth"
-                                 style="will-change:transform;opacity:1;transform:none">
-                                <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0"
-                                     data-framer-background-image-wrapper="true"><img decoding="async" loading="lazy"
-                                                                                      src="images/UmtvODXLIK4yO7d0por6c8sKNrg.png"
-                                                                                      alt=""
-                                                                                      style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:contain">
-                                </div>
-                            </div>
-                            <div class="framer-1n1gjak"
-                                 style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none"
-                                 data-framer-component-type="RichTextContainer"><h6
-                                    style="--font-selector:R0Y7UHJlc3MgU3RhcnQgMlAtcmVndWxhcg==;--framer-font-family:&quot;Press Start 2P&quot;, sans-serif;--framer-font-size:12px;--framer-text-alignment:center;--framer-text-color:rgb(241, 215, 164)"
-                                    class="framer-text">Secure Solana</h6></div>
-                            <div class="framer-t4xb29"
-                                 style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none"
-                                 data-framer-component-type="RichTextContainer"><h5
-                                    style="--font-selector:R0Y7UHJlc3MgU3RhcnQgMlAtcmVndWxhcg==;--framer-font-family:&quot;Press Start 2P&quot;, sans-serif;--framer-font-size:14px;--framer-line-height:20px;--framer-text-alignment:center;--framer-text-color:rgb(255, 255, 255)"
-                                    class="framer-text">Get Solana through the Phantom wallet or alternatively send Solana to your new wallet from an exchange.</h5></div>
-                        </div>
-                    </div>
-                    <div class="framer-1ya7swv" data-border="true" data-framer-name="text" name="text">
-                        <div class="framer-10t6p1h" data-border="true" data-framer-name="text" name="text">
-                            <div class="framer-1qrd8la" data-framer-name="TeÌ_te_perso" name="TeÌ_te_perso"
-                                 style="will-change:transform;opacity:1;transform:none">
-                                <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0"
-                                     data-framer-background-image-wrapper="true"><img decoding="async" loading="lazy"
-                                                                                      src="images/LSQGZPTxDt7IuF669z8PoMMco3w.png"
-                                                                                      alt=""
-                                                                                      style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:contain">
-                                </div>
-                            </div>
-                            <div class="framer-oryqay"
-                                 style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none"
-                                 data-framer-component-type="RichTextContainer"><h6
-                                    style="--font-selector:R0Y7UHJlc3MgU3RhcnQgMlAtcmVndWxhcg==;--framer-font-family:&quot;Press Start 2P&quot;, sans-serif;--framer-font-size:12px;--framer-text-alignment:center;--framer-text-color:rgb(241, 215, 164)"
-                                    class="framer-text">BUY $BillyBear</h6></div>
-                            <div class="framer-bno65e"
-                                 style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none"
-                                 data-framer-component-type="RichTextContainer"><h5
-                                    style="--font-selector:R0Y7UHJlc3MgU3RhcnQgMlAtcmVndWxhcg==;--framer-font-family:&quot;Press Start 2P&quot;, sans-serif;--framer-font-size:14px;--framer-line-height:20px;--framer-text-alignment:center;--framer-text-color:rgb(247, 247, 247)"
-                                    class="framer-text">Now go to raydium.io and paste the $BillyBear Contract Address to swap your SOL.</h5></div>
-                        </div>
-                    </div>
-                    <div class="framer-1q368e7" data-border="true" data-framer-name="text" name="text">
-                        <div class="framer-bpn66t" data-border="true" data-framer-name="text" name="text">
-                            <div class="framer-16v6dy8" data-framer-name="metamask" name="metamask"
-                                 style="will-change:transform;opacity:1;transform:none">
-                                <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0"
-                                     data-framer-background-image-wrapper="true"><img decoding="async" loading="lazy"
-                                                                                      sizes="(min-width: 1200px) 45px, (max-width: 1199px) 45px"
-                                                                                      srcset="images/Xos00vnH2iSJ5mNHiRwRFiGOcI-1.png 764w?scale-down-to=1024 764w,images/Xos00vnH2iSJ5mNHiRwRFiGOcI-2.png 794w"
-                                                                                      src="images/Xos00vnH2iSJ5mNHiRwRFiGOcI.png?scale-down-to=512"
-                                                                                      alt=""
-                                                                                      style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:contain"
-                                                                                      data-framer-original-sizes="45px">
-                                </div>
-                            </div>
-                            <div class="framer-v5yiyo"
-                                 style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none"
-                                 data-framer-component-type="RichTextContainer"><h6
-                                    style="--font-selector:R0Y7UHJlc3MgU3RhcnQgMlAtcmVndWxhcg==;--framer-font-family:&quot;Press Start 2P&quot;, sans-serif;--framer-font-size:12px;--framer-text-alignment:center;--framer-text-color:rgb(241, 215, 164)"
-                                    class="framer-text"> ADD TO YOUR WALLET</h6></div>
-                            <div class="framer-1pqcogq"
-                                 style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:none"
-                                 data-framer-component-type="RichTextContainer"><h5
-                                    style="--font-selector:R0Y7UHJlc3MgU3RhcnQgMlAtcmVndWxhcg==;--framer-font-family:&quot;Press Start 2P&quot;, sans-serif;--framer-font-size:14px;--framer-line-height:20px;--framer-text-alignment:center;--framer-text-color:rgb(255, 255, 255)"
-                                    class="framer-text">Now you’re all set! Welcome aboard the next rocket to the moon.</h5></div>
-                        </div>
-                    </div>
-                </div>
-                <div class="framer-8pt03y" data-framer-name="footer" id="footer" name="footer">
-                    <div class="framer-cc533i hidden-72rtr7" data-framer-name="IMG 7912" name="IMG 7912">
-                        <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0"
-                             data-framer-background-image-wrapper="true"><img decoding="async" loading="lazy"
-                                                                              sizes="(min-width: 1200px) 100vw, (max-width: 1199px) 100px"
-                                                                              srcset="images/OBVRrznqkshCLkrFHfiMEtoUnk-1.png 713w?scale-down-to=1024 713w,images/OBVRrznqkshCLkrFHfiMEtoUnk.png 853w"
-                                                                              src="images/OBVRrznqkshCLkrFHfiMEtoUnk.png"
-                                                                              alt=""
-                                                                              style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:contain"
-                                                                              data-framer-original-sizes="100px"></div>
-                    </div>
-                    <div class="framer-15nay62 hidden-72rtr7" data-framer-name="Sondoq" name="Sondoq">
-                        <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0"
-                             data-framer-background-image-wrapper="true"><img decoding="async" loading="lazy"
-                                                                              src="images/PFdSV7kxHyuuzp3Fcmu3Zzj7hjU.png"
-                                                                              alt=""
-                                                                              style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:cover">
-                        </div>
-                    </div>
-                    <div class="framer-1vw6rnd hidden-72rtr7" data-framer-name="IMG 7916" name="IMG 7916">
-                        <div style="position:absolute;border-radius:inherit;top:0;right:0;bottom:0;left:0"
-                             data-framer-background-image-wrapper="true"><img decoding="async" loading="lazy"
-                                                                              sizes="(min-width: 1200px) 100vw, (max-width: 1199px) 110px"
-                                                                              srcset="images/VbxulyBEU3fSdwLbKkCHEJuGY0.png 593w"
-                                                                              src="images/VbxulyBEU3fSdwLbKkCHEJuGY0.png"
-                                                                              alt=""
-                                                                              style="display:block;width:100%;height:100%;border-radius:inherit;object-position:center;object-fit:contain"
-                                                                              data-framer-original-sizes="110px"></div>
-                    </div>
-                    <div class="framer-qqiz3u hidden-1gask65"
-                         data-framer-name="The only cryptocurrency you will HODL till the next bear run."
-                         style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;transform:translateY(40px)"
-                         data-framer-component-type="RichTextContainer"><h6
-                            style="--font-selector:R0Y7UHJlc3MgU3RhcnQgMlAtcmVndWxhcg==;--framer-font-family:&quot;Press Start 2P&quot;, sans-serif;--framer-font-size:60px;--framer-text-alignment:center;--framer-text-color:rgb(241, 215, 164);--framer-text-stroke-color:rgb(242, 244, 204);--framer-text-stroke-width:0px"
-                            class="framer-text">JOIN US</h6></div>
-                    <div class="framer-11xsz21 hidden-1gask65" data-framer-name="socials" name="socials"><!--$--><a
-                            class="framer-1b78ncp framer-lux5qc" data-framer-name="telegram" name="telegram"
-                            href="https://x.com/billybear759" target="_blank" rel="noopener">
-                        <div data-framer-component-type="SVG" data-framer-name="graphic" name="graphic"
-                             style="image-rendering:pixelated;flex-shrink:0;background-size:100% 100%;background-image:url('data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20viewBox%3D%220%200%2040%2040%22%3E%3Cpath%20d%3D%22M%2035.16%2034.667%20L%2023.433%2017.571%20L%2023.453%2017.587%20L%2034.027%205.333%20L%2030.493%205.333%20L%2021.88%2015.307%20L%2015.04%205.333%20L%205.773%205.333%20L%2016.721%2021.295%20L%2016.72%2021.293%20L%205.173%2034.667%20L%208.707%2034.667%20L%2018.283%2023.571%20L%2025.893%2034.667%20Z%20M%2013.64%208%20L%2030.093%2032%20L%2027.293%2032%20L%2010.827%208%20Z%22%20fill%3D%22rgb(0%2C0%2C0)%22%3E%3C%2Fpath%3E%3C%2Fsvg%3E')"
-                             class="framer-1b8f8n7" aria-hidden="true"></div>
-                    </a><!--/$--><!--$--><a class="framer-s9vdx9 framer-lux5qc" data-framer-name="telegram"
-                                            name="telegram" href="https://t.me/+xqcd8uZyoi8zMjI0" target="_blank"
-                                            rel="noopener">
-                        <div data-framer-component-type="SVG" data-framer-name="icon" name="icon"
-                             style="image-rendering:pixelated;flex-shrink:0;background-size:100% 100%;background-image:url('data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20viewBox%3D%220%200%2040%2040%22%3E%3Cg%20transform%3D%22translate(0%200)%22%20id%3D%22ss9528612524_1%22%3E%3Cpath%20d%3D%22M%200%2040%20L%200%200%20L%2040%200%20L%2040%2040%20Z%22%20fill%3D%22transparent%22%3E%3C%2Fpath%3E%3Cpath%20d%3D%22M%2015.695%2025.302%20L%2015.034%2034.608%20C%2015.98%2034.608%2016.39%2034.201%2016.882%2033.713%20L%2021.32%2029.472%20L%2030.517%2036.206%20C%2032.204%2037.146%2033.392%2036.651%2033.847%2034.655%20L%2039.884%206.368%20L%2039.885%206.367%20C%2040.42%203.873%2038.984%202.898%2037.34%203.51%20L%201.857%2017.095%20C%20-0.565%2018.035%20-0.528%2019.385%201.445%2019.997%20L%2010.517%2022.818%20L%2031.589%209.633%20C%2032.58%208.977%2033.482%209.34%2032.74%209.997%20Z%22%20fill%3D%22rgb(0%2C%200%2C%200)%22%3E%3C%2Fpath%3E%3C%2Fg%3E%3C%2Fsvg%3E')"
-                             class="framer-1j7680v" aria-hidden="true"></div>
-                    </a><!--/$--></div>
-                </div>
-                <div class="framer-18369qs hidden-72rtr7" data-framer-name="footer" id="footer-1" name="footer">
-                    <div class="framer-9pgr2j"
-                         data-framer-name="The only cryptocurrency you will HODL till the next bear run."
-                         style="outline:none;display:flex;flex-direction:column;justify-content:flex-start;flex-shrink:0;opacity:1;transform:translateY(40px)"
-                         data-framer-component-type="RichTextContainer"><h6
-                            style="--font-selector:R0Y7UHJlc3MgU3RhcnQgMlAtcmVndWxhcg==;--framer-font-family:&quot;Press Start 2P&quot;, sans-serif;--framer-font-size:17px;--framer-text-alignment:center;--framer-text-color:rgb(241, 215, 164);--framer-text-stroke-color:rgb(242, 244, 204);--framer-text-stroke-width:0px"
-                            class="framer-text">JOIN US</h6></div>
-                    <div class="framer-m9bs8p" data-framer-name="socials" name="socials"><!--$--><a
-                            class="framer-1chug3c framer-lux5qc" data-framer-name="telegram" name="telegram"
-                            href="https://x.com/billybear759" target="_blank" rel="noopener">
-                        <div data-framer-component-type="SVG" data-framer-name="graphic" name="graphic"
-                             style="image-rendering:pixelated;flex-shrink:0;background-size:100% 100%;background-image:url('data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20viewBox%3D%220%200%2040%2040%22%3E%3Cpath%20d%3D%22M%2035.16%2034.667%20L%2023.433%2017.571%20L%2023.453%2017.587%20L%2034.027%205.333%20L%2030.493%205.333%20L%2021.88%2015.307%20L%2015.04%205.333%20L%205.773%205.333%20L%2016.721%2021.295%20L%2016.72%2021.293%20L%205.173%2034.667%20L%208.707%2034.667%20L%2018.283%2023.571%20L%2025.893%2034.667%20Z%20M%2013.64%208%20L%2030.093%2032%20L%2027.293%2032%20L%2010.827%208%20Z%22%20fill%3D%22rgb(0%2C0%2C0)%22%3E%3C%2Fpath%3E%3C%2Fsvg%3E')"
-                             class="framer-1rjyf7l" aria-hidden="true"></div>
-                    </a><!--/$--><!--$--><a class="framer-1whpo64 framer-lux5qc" data-framer-name="telegram"
-                                            name="telegram" href="https://t.me/+xqcd8uZyoi8zMjI0" target="_blank"
-                                            rel="noopener">
-                        <div data-framer-component-type="SVG" data-framer-name="icon" name="icon"
-                             style="image-rendering:pixelated;flex-shrink:0;background-size:100% 100%;background-image:url('data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20viewBox%3D%220%200%2040%2040%22%3E%3Cg%20transform%3D%22translate(0%200)%22%20id%3D%22ss9528612524_1%22%3E%3Cpath%20d%3D%22M%200%2040%20L%200%200%20L%2040%200%20L%2040%2040%20Z%22%20fill%3D%22transparent%22%3E%3C%2Fpath%3E%3Cpath%20d%3D%22M%2015.695%2025.302%20L%2015.034%2034.608%20C%2015.98%2034.608%2016.39%2034.201%2016.882%2033.713%20L%2021.32%2029.472%20L%2030.517%2036.206%20C%2032.204%2037.146%2033.392%2036.651%2033.847%2034.655%20L%2039.884%206.368%20L%2039.885%206.367%20C%2040.42%203.873%2038.984%202.898%2037.34%203.51%20L%201.857%2017.095%20C%20-0.565%2018.035%20-0.528%2019.385%201.445%2019.997%20L%2010.517%2022.818%20L%2031.589%209.633%20C%2032.58%208.977%2033.482%209.34%2032.74%209.997%20Z%22%20fill%3D%22rgb(0%2C%200%2C%200)%22%3E%3C%2Fpath%3E%3C%2Fg%3E%3C%2Fsvg%3E')"
-                             class="framer-10ic3k3" aria-hidden="true"></div>
-                    </a><!--/$--></div>
-                </div>
 
 
 
@@ -3087,29 +2896,31 @@
         .open-ai-btn {
             position: fixed;
             cursor: pointer;
-            z-index: 5;
-            top: 50%;
-            right: 0px;
+            z-index: 3;
+            top: 20px;
+            left: 80px;
             background: none;
             border: none;
-            width: 200px;
-            height: 200px;
+            width: 100px;
+            height: 100px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
             img{
-                width: 100%;
-                height: 100%;
+                width: 500%;
+                height: 500%;
             }
         }
 
-        .open-ai-btn:hover::after {
-            content: "";
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background-image: url('./images/ico_L.png'); /* Інше зображення для hover */
-            background-size: cover;
-            background-position: center;
+        .open-ai-btn::after {
+            content: "Click to chat with me";
+            font-family: "Press Start 2P", serif;
+            font-size: 10px;
+            color: #000;
+            text-align: center;
+            margin-top: 100px;
+            white-space: nowrap;
+            text-shadow: 1px 1px 2px white;
         }
 
         .close-btn {
