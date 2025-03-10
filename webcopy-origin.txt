@@ -1,0 +1,272 @@
+Uri: https://fonts.gstatic.com/s/dynapuff/v4/z7NKdRvsZDIVHbYPMhZJ3HQ83UaSu4uhr7-zF8Lpepw.woff2
+File Name: C:\Downloaded Web Sites\grums.xyz\s\dynapuff\v4\z7NKdRvsZDIVHbYPMhZJ3HQ83UaSu4uhr7-zF8Lpepw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/dynapuff/v4/z7NKdRvsZDIVHbYPMhZJ3HQ83UaSu4uhr7-zFMLpepw.woff2
+File Name: C:\Downloaded Web Sites\grums.xyz\s\dynapuff\v4\z7NKdRvsZDIVHbYPMhZJ3HQ83UaSu4uhr7-zFMLpepw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/dynapuff/v4/z7NKdRvsZDIVHbYPMhZJ3HQ83UaSu4uhr7-zGcLp.woff2
+File Name: C:\Downloaded Web Sites\grums.xyz\s\dynapuff\v4\z7NKdRvsZDIVHbYPMhZJ3HQ83UaSu4uhr7-zGcLp.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/londrinasolid/v17/flUhRq6sw40kQEJxWNgkLuudGfNeKBM.woff2
+File Name: C:\Downloaded Web Sites\grums.xyz\s\londrinasolid\v17\flUhRq6sw40kQEJxWNgkLuudGfNeKBM.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/modak/v18/EJRYQgs1XtIEskMA-hQ.woff2
+File Name: C:\Downloaded Web Sites\grums.xyz\s\modak\v18\EJRYQgs1XtIEskMA-hQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/modak/v18/EJRYQgs1XtIEskMB-hRp7w.woff2
+File Name: C:\Downloaded Web Sites\grums.xyz\s\modak\v18\EJRYQgs1XtIEskMB-hRp7w.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/modak/v18/EJRYQgs1XtIEskMO-hRp7w.woff2
+File Name: C:\Downloaded Web Sites\grums.xyz\s\modak\v18\EJRYQgs1XtIEskMO-hRp7w.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/pressstart2p/v15/e3t4euO8T-267oIAQAu6jDQyK3nbivN04w.woff2
+File Name: C:\Downloaded Web Sites\grums.xyz\s\pressstart2p\v15\e3t4euO8T-267oIAQAu6jDQyK3nbivN04w.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/pressstart2p/v15/e3t4euO8T-267oIAQAu6jDQyK3nRivN04w.woff2
+File Name: C:\Downloaded Web Sites\grums.xyz\s\pressstart2p\v15\e3t4euO8T-267oIAQAu6jDQyK3nRivN04w.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/pressstart2p/v15/e3t4euO8T-267oIAQAu6jDQyK3nVivM.woff2
+File Name: C:\Downloaded Web Sites\grums.xyz\s\pressstart2p\v15\e3t4euO8T-267oIAQAu6jDQyK3nVivM.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/pressstart2p/v15/e3t4euO8T-267oIAQAu6jDQyK3nWivN04w.woff2
+File Name: C:\Downloaded Web Sites\grums.xyz\s\pressstart2p\v15\e3t4euO8T-267oIAQAu6jDQyK3nWivN04w.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/pressstart2p/v15/e3t4euO8T-267oIAQAu6jDQyK3nYivN04w.woff2
+File Name: C:\Downloaded Web Sites\grums.xyz\s\pressstart2p\v15\e3t4euO8T-267oIAQAu6jDQyK3nYivN04w.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2
+File Name: C:\Downloaded Web Sites\grums.xyz\assets\5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2
+File Name: C:\Downloaded Web Sites\grums.xyz\assets\b6Y37FthZeALduNqHicBT6FutY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2
+File Name: C:\Downloaded Web Sites\grums.xyz\assets\EOr0mi4hNtlgWNn9if640EZzXCo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2
+File Name: C:\Downloaded Web Sites\grums.xyz\assets\JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2
+File Name: C:\Downloaded Web Sites\grums.xyz\assets\OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/vQyevYAyHtARFwPqUzQGpnDs.woff2
+File Name: C:\Downloaded Web Sites\grums.xyz\assets\vQyevYAyHtARFwPqUzQGpnDs.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2
+File Name: C:\Downloaded Web Sites\grums.xyz\assets\Y9k9QrlZAqio88Klkmbd8VoMQc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/images/10abil3dGcZk2Bw2N7J54C0e3aI.png
+File Name: C:\Downloaded Web Sites\grums.xyz\images\10abil3dGcZk2Bw2N7J54C0e3aI.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/10abil3dGcZk2Bw2N7J54C0e3aI.png?scale-down-to=1024
+File Name: C:\Downloaded Web Sites\grums.xyz\images\10abil3dGcZk2Bw2N7J54C0e3aI-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/10abil3dGcZk2Bw2N7J54C0e3aI.png?scale-down-to=512
+File Name: C:\Downloaded Web Sites\grums.xyz\images\10abil3dGcZk2Bw2N7J54C0e3aI-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/1N3kCcqycVmnXVZps3wCjAKsXo.png
+File Name: C:\Downloaded Web Sites\grums.xyz\images\1N3kCcqycVmnXVZps3wCjAKsXo.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/5YvR79u0wY0Fri5tWgVThplWFWg.png
+File Name: C:\Downloaded Web Sites\grums.xyz\images\5YvR79u0wY0Fri5tWgVThplWFWg-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/5YvR79u0wY0Fri5tWgVThplWFWg.png?scale-down-to=512
+File Name: C:\Downloaded Web Sites\grums.xyz\images\5YvR79u0wY0Fri5tWgVThplWFWg.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/BWFgqfZMD4crBhmw34hG6AN3Ls.png
+File Name: C:\Downloaded Web Sites\grums.xyz\images\BWFgqfZMD4crBhmw34hG6AN3Ls.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/CvPWJBMMBdqbVbUcryORXa0IMQ.png
+File Name: C:\Downloaded Web Sites\grums.xyz\images\CvPWJBMMBdqbVbUcryORXa0IMQ.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/CvPWJBMMBdqbVbUcryORXa0IMQ.png?scale-down-to=1024
+File Name: C:\Downloaded Web Sites\grums.xyz\images\CvPWJBMMBdqbVbUcryORXa0IMQ-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/CvPWJBMMBdqbVbUcryORXa0IMQ.png?scale-down-to=512
+File Name: C:\Downloaded Web Sites\grums.xyz\images\CvPWJBMMBdqbVbUcryORXa0IMQ-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/ejRwUECc7dfQHSikH1qRpp5eE.png
+File Name: C:\Downloaded Web Sites\grums.xyz\images\ejRwUECc7dfQHSikH1qRpp5eE.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/IBCy3FspjTMHeDR6Zo1CxkbcY.png
+File Name: C:\Downloaded Web Sites\grums.xyz\images\IBCy3FspjTMHeDR6Zo1CxkbcY-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/IBCy3FspjTMHeDR6Zo1CxkbcY.png?scale-down-to=1024
+File Name: C:\Downloaded Web Sites\grums.xyz\images\IBCy3FspjTMHeDR6Zo1CxkbcY.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/IBCy3FspjTMHeDR6Zo1CxkbcY.png?scale-down-to=512
+File Name: C:\Downloaded Web Sites\grums.xyz\images\IBCy3FspjTMHeDR6Zo1CxkbcY-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/ILsR23AfiXZNZTYnXf1E4dazVc.png
+File Name: C:\Downloaded Web Sites\grums.xyz\images\ILsR23AfiXZNZTYnXf1E4dazVc-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/ILsR23AfiXZNZTYnXf1E4dazVc.png?scale-down-to=1024
+File Name: C:\Downloaded Web Sites\grums.xyz\images\ILsR23AfiXZNZTYnXf1E4dazVc.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/ILsR23AfiXZNZTYnXf1E4dazVc.png?scale-down-to=512
+File Name: C:\Downloaded Web Sites\grums.xyz\images\ILsR23AfiXZNZTYnXf1E4dazVc-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/k0TwRU9dPDLaa3dBgicpw0KA.png
+File Name: C:\Downloaded Web Sites\grums.xyz\images\k0TwRU9dPDLaa3dBgicpw0KA.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/k0TwRU9dPDLaa3dBgicpw0KA.png?scale-down-to=1024
+File Name: C:\Downloaded Web Sites\grums.xyz\images\k0TwRU9dPDLaa3dBgicpw0KA-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/k0TwRU9dPDLaa3dBgicpw0KA.png?scale-down-to=512
+File Name: C:\Downloaded Web Sites\grums.xyz\images\k0TwRU9dPDLaa3dBgicpw0KA-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/KM6m3F0XxgJBbtUKJciHB5zPk3Q.png
+File Name: C:\Downloaded Web Sites\grums.xyz\images\KM6m3F0XxgJBbtUKJciHB5zPk3Q.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/LSQGZPTxDt7IuF669z8PoMMco3w.webp
+File Name: C:\Downloaded Web Sites\grums.xyz\images\LSQGZPTxDt7IuF669z8PoMMco3w.webp
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/mD5ip1RABs2lTpwO6kkpkEjcc.png
+File Name: C:\Downloaded Web Sites\grums.xyz\images\mD5ip1RABs2lTpwO6kkpkEjcc.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/MFDAArOU06KNXzpuh1p9LKJnSnw.png
+File Name: C:\Downloaded Web Sites\grums.xyz\images\MFDAArOU06KNXzpuh1p9LKJnSnw.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/NjNQtjzeV2TTy2qRwG8VeJHSFbE.png
+File Name: C:\Downloaded Web Sites\grums.xyz\images\NjNQtjzeV2TTy2qRwG8VeJHSFbE.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/NZ1zjCF7QuEXMfT3i4mMPGbGw.png
+File Name: C:\Downloaded Web Sites\grums.xyz\images\NZ1zjCF7QuEXMfT3i4mMPGbGw-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/NZ1zjCF7QuEXMfT3i4mMPGbGw.png?scale-down-to=1024
+File Name: C:\Downloaded Web Sites\grums.xyz\images\NZ1zjCF7QuEXMfT3i4mMPGbGw.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/OBVRrznqkshCLkrFHfiMEtoUnk.png
+File Name: C:\Downloaded Web Sites\grums.xyz\images\OBVRrznqkshCLkrFHfiMEtoUnk.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/OBVRrznqkshCLkrFHfiMEtoUnk.png?scale-down-to=1024
+File Name: C:\Downloaded Web Sites\grums.xyz\images\OBVRrznqkshCLkrFHfiMEtoUnk-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/PFdSV7kxHyuuzp3Fcmu3Zzj7hjU.png
+File Name: C:\Downloaded Web Sites\grums.xyz\images\PFdSV7kxHyuuzp3Fcmu3Zzj7hjU.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/RYgTJCe4yTXFQHAr6gl5YSRFYbA.png
+File Name: C:\Downloaded Web Sites\grums.xyz\images\RYgTJCe4yTXFQHAr6gl5YSRFYbA.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/TnjHrJH3BWQoWiojPQ22XiAiKQ.png
+File Name: C:\Downloaded Web Sites\grums.xyz\images\TnjHrJH3BWQoWiojPQ22XiAiKQ.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/TnjHrJH3BWQoWiojPQ22XiAiKQ.png?scale-down-to=1024
+File Name: C:\Downloaded Web Sites\grums.xyz\images\TnjHrJH3BWQoWiojPQ22XiAiKQ-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/TnjHrJH3BWQoWiojPQ22XiAiKQ.png?scale-down-to=512
+File Name: C:\Downloaded Web Sites\grums.xyz\images\TnjHrJH3BWQoWiojPQ22XiAiKQ-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/UmtvODXLIK4yO7d0por6c8sKNrg.png
+File Name: C:\Downloaded Web Sites\grums.xyz\images\UmtvODXLIK4yO7d0por6c8sKNrg.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/VbxulyBEU3fSdwLbKkCHEJuGY0.png
+File Name: C:\Downloaded Web Sites\grums.xyz\images\VbxulyBEU3fSdwLbKkCHEJuGY0.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/vnyfL0Rrkr4hAWw4ZG39GcyKM.png
+File Name: C:\Downloaded Web Sites\grums.xyz\images\vnyfL0Rrkr4hAWw4ZG39GcyKM.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/Xos00vnH2iSJ5mNHiRwRFiGOcI.png
+File Name: C:\Downloaded Web Sites\grums.xyz\images\Xos00vnH2iSJ5mNHiRwRFiGOcI-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/Xos00vnH2iSJ5mNHiRwRFiGOcI.png?scale-down-to=1024
+File Name: C:\Downloaded Web Sites\grums.xyz\images\Xos00vnH2iSJ5mNHiRwRFiGOcI-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/Xos00vnH2iSJ5mNHiRwRFiGOcI.png?scale-down-to=512
+File Name: C:\Downloaded Web Sites\grums.xyz\images\Xos00vnH2iSJ5mNHiRwRFiGOcI.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/sites/6sJan2PXJc9SuGpJhcri6E/1XUvFm_vBk6Xu_N5-92Aec049k_v41nuZPGDyXc0RXc.OOASVO3O.mjs
+File Name: C:\Downloaded Web Sites\grums.xyz\sites\6sJan2PXJc9SuGpJhcri6E\1XUvFm_vBk6Xu_N5-92Aec049k_v41nuZPGDyXc0RXc.OOASVO3O.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/6sJan2PXJc9SuGpJhcri6E/chunk-42U43NKG.mjs
+File Name: C:\Downloaded Web Sites\grums.xyz\sites\6sJan2PXJc9SuGpJhcri6E\chunk-42U43NKG.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/6sJan2PXJc9SuGpJhcri6E/chunk-ASITO7MA.mjs
+File Name: C:\Downloaded Web Sites\grums.xyz\sites\6sJan2PXJc9SuGpJhcri6E\chunk-ASITO7MA.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/6sJan2PXJc9SuGpJhcri6E/chunk-JR5VT52U.mjs
+File Name: C:\Downloaded Web Sites\grums.xyz\sites\6sJan2PXJc9SuGpJhcri6E\chunk-JR5VT52U.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/6sJan2PXJc9SuGpJhcri6E/chunk-LCYJHGMJ.mjs
+File Name: C:\Downloaded Web Sites\grums.xyz\sites\6sJan2PXJc9SuGpJhcri6E\chunk-LCYJHGMJ.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/6sJan2PXJc9SuGpJhcri6E/chunk-R6AGWFIP.mjs
+File Name: C:\Downloaded Web Sites\grums.xyz\sites\6sJan2PXJc9SuGpJhcri6E\chunk-R6AGWFIP.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/6sJan2PXJc9SuGpJhcri6E/chunk-RIUMFBNJ.mjs
+File Name: C:\Downloaded Web Sites\grums.xyz\sites\6sJan2PXJc9SuGpJhcri6E\chunk-RIUMFBNJ.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/6sJan2PXJc9SuGpJhcri6E/script_main.JCOOUKKL.mjs
+File Name: C:\Downloaded Web Sites\grums.xyz\sites\6sJan2PXJc9SuGpJhcri6E\script_main.JCOOUKKL.mjs
+Content Type: text/javascript
+
+Uri: https://grums.xyz/
+File Name: C:\Downloaded Web Sites\grums.xyz\index.htm
+Content Type: text/html
+
